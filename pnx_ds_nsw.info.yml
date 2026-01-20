@@ -1,7 +1,7 @@
 name: NSW DS
 type: module
 description: NSW Design System for PreviousNext Common Objects.
-core_version_requirement: ^11.1
+core_version_requirement: ^10 || ^11.1
 php: 8.2
 dependencies:
   - components:components # @todo: rework to remove dep.
